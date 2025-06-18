@@ -3819,6 +3819,10 @@
     "StatusCode": 200,
     "LastSeen": "2025-02-02T15:44:42.6Z"
   },
+  "https://github.com/collectd/collectd/wiki/Binary-protocol": {
+    "StatusCode": 206,
+    "LastSeen": "2025-06-18T10:38:19.792581478Z"
+  },
   "https://github.com/conan-io/": {
     "StatusCode": 200,
     "LastSeen": "2024-11-14T11:48:37.574508+01:00"
