@@ -8715,6 +8715,10 @@
     "StatusCode": 206,
     "LastSeen": "2025-01-17T20:08:43.60441392Z"
   },
+  "https://github.com/open-telemetry/opentelemetry-go/pull/6778": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-16T19:52:14.573194163Z"
+  },
   "https://github.com/open-telemetry/opentelemetry-go/releases": {
     "StatusCode": 206,
     "LastSeen": "2025-01-13T11:43:28.027297-05:00"
@@ -10855,6 +10859,10 @@
     "StatusCode": 206,
     "LastSeen": "2025-02-01T07:12:25.85413-05:00"
   },
+  "https://github.com/open-telemetry/opentelemetry-python/pull/4609": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-16T19:52:18.603109578Z"
+  },
   "https://github.com/open-telemetry/opentelemetry-python/releases": {
     "StatusCode": 206,
     "LastSeen": "2025-01-13T11:43:27.158624-05:00"
@@ -12570,6 +12578,10 @@
   "https://github.com/open-telemetry/opentelemetry-swift/blob/main/Sources/OpenTelemetryApi/OpenTelemetry.swift#L11": {
     "StatusCode": 200,
     "LastSeen": "2025-02-06T02:19:12.345Z"
+  },
+  "https://github.com/open-telemetry/opentelemetry-swift/blob/main/Sources/OpenTelemetrySdk/Trace/Propagation/EnvironmentContextPropagator.swift": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-16T19:52:11.774165231Z"
   },
   "https://github.com/open-telemetry/opentelemetry-swift/releases": {
     "StatusCode": 206,
