@@ -4,8 +4,7 @@ linkTitle: How to Name Your Spans
 date: 2025-08-06
 author: >-
   [Juraci Paixão Kröhling](https://github.com/jpkrohling) (OllyGarden)
-# prettier-ignore
-cSpell:ignore: jpkrohling Kröhling OllyGarden SemConv
+cSpell:ignore: aggregability Aggregatable jpkrohling OllyGarden SemConv
 ---
 
 One of the most fundamental yet often overlooked aspects of good instrumentation
@@ -26,7 +25,7 @@ Simple, clear sentences often follow a subject -> verb -> direct object
 structure. The "subject" (the service performing the work) is already part of
 the trace's context. We can use the rest of that structure for our span name:
 
-**{verb} {object}**
+### {verb} {object}
 
 This pattern is descriptive, easy to understand, and helps maintain low
 cardinality—a crucial concept we'll touch on later.
@@ -87,8 +86,8 @@ Let's look at a few examples from SemConv.
 
 For server-side HTTP spans, the convention is {method} {route}.
 
-- **Example:** GET /api/users/:id
-- **Analysis:** This is a verb (GET) on an object (/api/users/:id). The use of a
+- **Example:** GET /api/users/:ID
+- **Analysis:** This is a verb (GET) on an object (/api/users/:ID). The use of a
   route template instead of the actual path (/api/users/123) is a perfect
   example of maintaining low cardinality.
 
