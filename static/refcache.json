@@ -239,6 +239,10 @@
     "StatusCode": 200,
     "LastSeen": "2024-08-09T10:46:28.075977-04:00"
   },
+  "https://blog.olly.garden/how-to-name-your-spans": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:40.869126126+02:00"
+  },
   "https://blog.remirepo.net/pages/PECL-extensions-RPM-status": {
     "StatusCode": 200,
     "LastSeen": "2025-01-30T14:41:05.047642-05:00"
@@ -10519,6 +10523,42 @@
     "StatusCode": 206,
     "LastSeen": "2025-01-17T16:47:23.089948-05:00"
   },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:07.88514278+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#all-other-responses": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:14.977347648+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#failures": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:10.546560793+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#failures-1": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:13.325259149+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#json-protobuf-encoding": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:03.50458222+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#otlpgrpc": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.656476646+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#otlphttp": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:12.431483041+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#otlphttp-connection": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:16.74032496+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/main/docs/specification.md#otlphttp-request": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:06.414766327+02:00"
+  },
   "https://github.com/open-telemetry/opentelemetry-proto/blob/main/opentelemetry/proto/logs/v1/logs.proto": {
     "StatusCode": 206,
     "LastSeen": "2025-07-18T18:23:29.082324044Z"
@@ -10550,6 +10590,14 @@
   "https://github.com/open-telemetry/opentelemetry-proto/blob/v0.9.0/opentelemetry/proto/metrics/v1/metrics.proto#L268": {
     "StatusCode": 200,
     "LastSeen": "2025-02-06T02:17:12.345Z"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/v1.5.0/docs/specification.md#full-success": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:35.33933886+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry-proto/blob/v1.5.0/docs/specification.md#full-success-1": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:34.689211134+02:00"
   },
   "https://github.com/open-telemetry/opentelemetry-proto/issues/567#issuecomment-2286565449": {
     "StatusCode": 200,
@@ -11334,6 +11382,10 @@
   "https://github.com/open-telemetry/opentelemetry-specification/blob/main/spec-compliance-matrix.md#events": {
     "StatusCode": 206,
     "LastSeen": "2025-02-06T02:17:59.999Z"
+  },
+  "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/document-status.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:15.291428318+02:00"
   },
   "https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/metrics/sdk.md#view": {
     "StatusCode": 206,
@@ -13011,6 +13063,1366 @@
     "StatusCode": 206,
     "LastSeen": "2025-02-02T12:11:00.926611-05:00"
   },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/community/mission-vision-values.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:42.56675813+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/community/roadmap.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:41.747703233+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/opamp/index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.453213983+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:58.572017788+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/baggage/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:59.940391742+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/baggage/api.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:00.149273226+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/common/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.179528979+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/common/attribute-naming.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:00.792364359+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/common/attribute-requirement-level.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.241708637+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/common/attribute-type-mapping.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.471556401+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/common/instrumentation-scope.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.650936825+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/common/mapping-to-non-otlp.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:59.265121014+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/compatibility/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.015747299+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/compatibility/logging_trace_context.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.786977438+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/compatibility/opencensus.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.05411643+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/compatibility/opentracing.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.514167027+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/compatibility/prometheus_and_openmetrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.887743084+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/configuration/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:58.602334576+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/configuration/api.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:00.157868253+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/configuration/data-model.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.865341925+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/configuration/sdk-environment-variables.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.881963927+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/configuration/sdk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.645177478+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/context/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.165874581+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/context/api-propagators.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.28168354+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/context/env-carriers.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.937919589+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/document-status.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.869724676+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/entities/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.627777638+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/entities/data-model.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.529594665+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/error-handling.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.31406876+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/glossary.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.633573995+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/library-guidelines.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.273066597+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/library-layout.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.730641308+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.437883034+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/api.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.464116618+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/data-model-appendix.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:59.233922257+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/data-model.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.506729871+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/noop.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.723859516+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/sdk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:51:59.996452772+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/sdk_exporters/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.169429362+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/sdk_exporters/stdout.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.609210235+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/logs/supplementary-guidelines.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.784504077+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.26195495+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/api.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:00.956562881+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/data-model.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.305102386+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/metric-requirement-level.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.425900867+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/noop.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.23292474+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/sdk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.778955944+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/sdk_exporters/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.125374052+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/sdk_exporters/in-memory.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.990799116+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/sdk_exporters/otlp.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.759792691+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/sdk_exporters/prometheus.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.552776357+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/sdk_exporters/stdout.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.150461444+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/metrics/supplementary-guidelines.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.155637338+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/overview.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.955962297+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/performance-benchmark.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.62692736+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/performance.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.597132473+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/profiles/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.089942872+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/profiles/mappings.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.101369312+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/protocol/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.054082545+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/protocol/design-goals.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.605802429+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/protocol/exporter.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.110765363+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/protocol/file-exporter.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:02.664798259+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/protocol/otlp.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.950949182+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/protocol/requirements.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.253336967+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/resource/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.691248616+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/resource/data-model.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.258885815+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/resource/sdk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.377474505+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/schemas/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.947521051+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/schemas/file_format_v1.0.0.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:01.077657226+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/schemas/file_format_v1.1.0.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.636291825+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/semantic-conventions.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.75511185+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/specification-principles.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.19114823+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/telemetry-stability.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:05.433793912+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.398276464+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/api.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.56424578+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/exceptions.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.771881884+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/sdk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.532571104+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/sdk_exporters/_index.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.506087218+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/sdk_exporters/stdout.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.357089921+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/sdk_exporters/zipkin.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.065424967+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/tracestate-handling.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:03.681613515+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/tracestate-probability-sampling-experimental.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.079845367+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/trace/tracestate-probability-sampling.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.474303281+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/upgrading.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.671517755+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/vendors.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.759341417+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otel/specification/versioning-and-stability.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.061745527+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/otlp/docs/specification.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.737095916+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.218871602+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/app/app.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.317273425+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/azure/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.510595676+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/azure/events.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.739089629+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/browser/events.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.848014513+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cicd/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.587336469+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cicd/cicd-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.188960967+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cicd/cicd-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.827820156+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cli/cli-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.945182103+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cloud-providers/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.900505853+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cloud-providers/aws-sdk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.424472716+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cloudevents/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.414548959+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/cloudevents/cloudevents-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.973835252+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/code/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.811422404+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.953640904+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/cassandra.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:04.985042736+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/cosmosdb.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.547646168+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/couchdb.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.169149837+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/database-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.417209486+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/database-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.888548451+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/dynamodb.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.74571586+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/elasticsearch.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.827820211+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/hbase.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.893398684+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/mariadb.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:06.430255711+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/mongodb.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.76991626+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/mysql.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.306444393+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/oracledb.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.226868974+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/postgresql.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.444844493+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/redis.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.767664186+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/sql-server.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.760908853+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/database/sql.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.444911472+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dns/dns-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.111747698+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.044667329+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/dotnet-aspnetcore-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.661118739+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/dotnet-dns-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.757366566+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/dotnet-http-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:07.621187476+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/dotnet-kestrel-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.101432253+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/dotnet-network-traces.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.782558365+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/dotnet/dotnet-signalr-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.100069074+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/exceptions/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.465988827+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/exceptions/exceptions-logs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.404122893+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/exceptions/exceptions-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.404365118+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/faas/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.435295083+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/faas/aws-lambda.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.174860117+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/faas/faas-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.681364924+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/faas/faas-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.919323771+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/feature-flags/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.555233056+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/feature-flags/feature-flags-logs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.796567993+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.738398942+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/aws-bedrock.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.205222547+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/azure-ai-inference.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.114799608+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/gen-ai-agent-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.959698411+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/gen-ai-events.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.341233967+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/gen-ai-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.988051751+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/gen-ai-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.666126875+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/gen-ai/openai.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.275542811+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.658759733+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/attribute-requirement-level.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:08.973811296+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/attributes.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.133445133+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/events.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:09.940349813+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/how-to-define-semantic-conventions.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.10131999+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/logs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.881946823+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/metric-requirement-level.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.617693414+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.943831631+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/naming.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.153445657+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/profiles.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.400906349+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/recording-errors.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.006834049+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/semantic-convention-groups.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.935281289+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/session.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.631554839+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/trace-compatibility.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.17602306+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/general/trace.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.465999508+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/graphql/graphql-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.821443671+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/hardware/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.96945163+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/hardware/common.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.232688422+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/hardware/host.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.226801234+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/http/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.149176785+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/http/http-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.617691261+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/http/http-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:10.445148014+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.338359551+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/azure-messaging.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.750068571+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/gcp-pubsub.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.720757119+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/kafka.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.10151126+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/messaging-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.291260333+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/messaging-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.994745016+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/rabbitmq.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.01914593+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/rocketmq.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.362225879+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/sns.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.941154015+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/messaging/sqs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.93279461+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/mobile/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.448275548+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/mobile/events.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.114932764+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.994977262+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/code-generation.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.814775366+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/compatibility/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.653654343+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/compatibility/aws.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.096782828+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/db-migration.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.144847185+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/groups/system/design-philosophy.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.092946774+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/groups/system/use-cases.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.655314561+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/how-to-write-conventions/resource-and-entities.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.000636745+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/http-migration.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.473905515+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/k8s-attributes.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:11.853305071+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/k8s-migration.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.599086004+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/non-normative/naming-known-exceptions.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.723312572+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/object-stores/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.873705945+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/object-stores/s3.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.467537685+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/otel/sdk-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.952626747+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.020171482+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.12194491+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/android.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:13.531510569+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/app.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.678902849+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/artifact.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.700293231+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/aspnetcore.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.254183917+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/aws.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.628849313+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/azure.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:14.870667723+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/browser.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.628402397+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cassandra.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.023148408+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cicd.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.969700191+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/client.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.35502121+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cloud.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.020858625+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cloudevents.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.319571515+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cloudfoundry.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.399670435+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/code.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.290787225+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/container.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.132043495+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cpu.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.638530667+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/cpython.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.164722245+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/db.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.932247287+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/deployment.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:12.186615957+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/destination.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.971697012+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/device.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.562063423+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/disk.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.76034936+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/dns.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.909508218+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/dotnet.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.383361687+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/elasticsearch.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.817035527+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/enduser.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:15.322953657+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/error.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.840708114+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/event.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.488307302+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/exception.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.294788388+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/faas.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.508578474+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/feature-flag.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.417596655+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/file.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.616233089+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/gcp.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.351151125+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/gen-ai.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.720034716+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/geo.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:16.35513786+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/go.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.684777392+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/graphql.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.371937765+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/hardware.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.360529611+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/heroku.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.297819422+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/host.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.268297484+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/http.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.473257975+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/ios.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.208633062+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/jvm.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:17.747349043+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/k8s.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.789082319+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/linux.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.914107052+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/log.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.302104366+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/mainframe.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.339463612+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/messaging.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.674745318+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/network.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.977587416+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/nodejs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.180525902+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/oci.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.270240628+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/opentracing.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.373433315+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/os.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.722971751+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/otel.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.595274682+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/peer.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.004242275+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/process.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.821901559+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/profile.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.512679367+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/rpc.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.916937342+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/security-rule.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:18.408459701+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/server.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.737694212+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/service.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.332966734+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/session.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.226476635+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/signalr.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.140304426+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/source.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.611882382+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/system.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.018919922+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/telemetry.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.575712617+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/test.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.360360433+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/thread.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.147035963+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/tls.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.549739338+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/url.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.323044419+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/user-agent.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.00632821+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/user.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.110118911+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/v8js.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.76069384+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/vcs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.767140571+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/webengine.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.539073744+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/attributes/zos.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.967521284+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.2660067+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/android.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.656629217+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/app.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.764086093+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/aws.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:19.468363616+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/browser.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.771711942+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/cicd.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.343120054+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/cloud.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.943212551+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/cloudfoundry.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.685969666+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/container.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:22.747132196+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/deployment.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.664637924+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/device.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.299225809+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/faas.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.75668237+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/gcp.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.375532525+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/heroku.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.772086101+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/host.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.952975752+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/k8s.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.986137308+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/os.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.232059104+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/otel.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.690837458+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/process.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.242207357+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/service.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.676513498+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/telemetry.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.087936408+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/vcs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.252500728+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/webengine.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.601775885+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/registry/entities/zos.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:20.629796557+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.5625229+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/android.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.003982705+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/browser.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.811896807+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cicd.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.514893398+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.772097511+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/aws/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.130566646+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/aws/ecs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.77308235+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/aws/eks.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.72141029+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/aws/logs.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.739509538+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/gcp/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:23.997907961+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/gcp/apphub.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.702850804+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/gcp/cloud-run.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.062930141+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/gcp/gce.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.581052959+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud-provider/heroku.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.966966807+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloud.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.150244608+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/cloudfoundry.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.018925729+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/container.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.574379549+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/deployment-environment.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.739267263+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/device.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.576393897+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/faas.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.597884147+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/host.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.095956315+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/k8s.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.346237143+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/os.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.525844967+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/process.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:28.476515409+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/webengine.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:21.694544381+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/resource/zos.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.161594065+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/rpc/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.132913217+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/rpc/connect-rpc.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.252631088+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/rpc/grpc.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.549940324+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/rpc/json-rpc.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.754735847+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/rpc/rpc-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.882873735+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/rpc/rpc-spans.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.843907962+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:29.950699548+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/cpython-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:28.201770407+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/dotnet-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.361137194+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/go-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:29.950660746+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/jvm-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.252525885+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/nodejs-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:28.476938134+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/runtime/v8js-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.366914695+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/system/README.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.303133898+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/system/container-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:25.495231008+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/system/hardware-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:24.20783655+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/system/k8s-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.4688464+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/system/process-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:27.463436734+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/system/system-metrics.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:26.88460652+02:00"
+  },
+  "https://github.com/open-telemetry/opentelemetry.io/tree/main/tmp/semconv/docs/url/url.md": {
+    "StatusCode": 404,
+    "LastSeen": "2025-07-31T09:52:31.537199789+02:00"
+  },
   "https://github.com/open-telemetry/otel-arrow": {
     "StatusCode": 206,
     "LastSeen": "2025-01-30T17:00:10.089894-05:00"
@@ -13187,9 +14599,153 @@
     "StatusCode": 206,
     "LastSeen": "2025-02-01T06:38:26.391953-05:00"
   },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/README.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:02.125606237+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/database/database-spans.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:09.777058317+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/exceptions/exceptions-logs.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:09.848023612+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/exceptions/exceptions-spans.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:05.746452487+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/attribute-requirement-level.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:03.26845841+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/attributes.md#server-client-and-shared-network-attributes": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:04.777650227+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/events.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.271804263+02:00"
+  },
   "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/metrics.md#instrument-naming": {
     "StatusCode": 206,
     "LastSeen": "2025-05-26T16:48:07.30351+03:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/naming.md#attributes": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:02.66407786+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/naming.md#general-naming-considerations": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:07.574237457+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/recording-errors.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:10.051670095+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/general/trace-compatibility.md#opentracing": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:05.149247824+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/error.md#error-type": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:05.354441464+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/exception.md#exception-message": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:05.930707551+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/exception.md#exception-stacktrace": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:07.242788515+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/exception.md#exception-type": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:07.734652722+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/server.md#server-address": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.742129961+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/server.md#server-port": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:09.868225691+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/service.md#service-attributes": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:13.801590295+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/service.md#service-instance-id": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:20.154753241+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/service.md#service-name": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:12.811226051+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/telemetry.md#telemetry-sdk-language": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:14.890114866+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/telemetry.md#telemetry-sdk-name": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:16.096909688+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/telemetry.md#telemetry-sdk-version": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:18.751062491+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/registry/attributes/url.md#url-scheme": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:19.924542291+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/README.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:00.82446247+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/README.md#semantic-attributes-with-dedicated-environment-variable": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:03.656030843+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/README.md#semantic-attributes-with-sdk-provided-default-value": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:07.206166625+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/README.md#service": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:04.464114818+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/README.md#telemetry-sdk": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:12.431593979+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/container.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.473968089+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/host.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:09.450153377+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/os.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:10.974677892+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/process.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:12.673133811+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/resource/process.md#process": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.636293384+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/rpc/rpc-metrics.md#metric-rpcserverduration": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:03.655825747+02:00"
+  },
+  "https://github.com/open-telemetry/semantic-conventions/blob/main/docs/system/process-metrics.md": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:12.725470608+02:00"
   },
   "https://github.com/open-telemetry/semantic-conventions/blob/v1.21.0/docs/general/general-attributes.md#server-and-client-attributes": {
     "StatusCode": 200,
@@ -17607,9 +19163,57 @@
     "StatusCode": 200,
     "LastSeen": "2025-01-31T13:07:33.766024682Z"
   },
+  "https://opentelemetry.io/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.676703995+02:00"
+  },
   "https://opentelemetry.io/blog/2025/contribex-survey-results/": {
     "StatusCode": 206,
     "LastSeen": "2025-06-12T14:07:51.914716+02:00"
+  },
+  "https://opentelemetry.io/community/mission/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:06.950654382+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#telemetry-should-be-built-in": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:11.293284695+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#telemetry-should-be-easy": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:07.769841701+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#telemetry-should-be-loosely-coupled": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:10.133179708+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#telemetry-should-be-universal": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:08.418621352+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#telemetry-should-be-vendor-neutral": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:09.061356696+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#we-value-compatibility": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:12.352194068+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#we-value-performance": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:15.794851843+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#we-value-resilience": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:14.780439247+02:00"
+  },
+  "https://opentelemetry.io/community/mission/#we-value-stability": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:13.462745174+02:00"
+  },
+  "https://opentelemetry.io/docs/concepts/glossary/#instrumentation-library": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:10.465888214+02:00"
   },
   "https://opentelemetry.io/docs/concepts/instrumentation/": {
     "StatusCode": 206,
@@ -17619,6 +19223,14 @@
     "StatusCode": 206,
     "LastSeen": "2025-07-22T11:21:38.519024472-07:00"
   },
+  "https://opentelemetry.io/docs/migration/opentracing/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:04.228639551+02:00"
+  },
+  "https://opentelemetry.io/docs/migration/opentracing/#language-version-support": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:04.055241526+02:00"
+  },
   "https://opentelemetry.io/docs/reference/specification/metrics/semantic_conventions/": {
     "StatusCode": 206,
     "LastSeen": "2025-05-26T16:48:26.73412+03:00"
@@ -17627,9 +19239,53 @@
     "StatusCode": 206,
     "LastSeen": "2025-06-25T14:35:48.528151427Z"
   },
+  "https://opentelemetry.io/docs/specs/otel/document-status": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:06.970559387+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/otel/trace/api/#isremote": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:26.357036744+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/otel/trace/api/#tracerprovider": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:25.81092398+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/otel/versioning-and-stability/#semantic-conventions-stability": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:09.96121986+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/otlp/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:03.369877962+02:00"
+  },
   "https://opentelemetry.io/docs/specs/semconv/": {
     "StatusCode": 206,
     "LastSeen": "2025-07-02T23:23:22.122093332Z"
+  },
+  "https://opentelemetry.io/docs/specs/semconv/code/#attributes": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:15.972187038+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/semconv/general/attribute-requirement-level/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:02.70483082+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/semconv/general/metric-requirement-level/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:05.219933094+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/semconv/general/naming/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:01.656386362+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/semconv/registry/attributes/process/#process-attributes": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:13.643420247+02:00"
+  },
+  "https://opentelemetry.io/docs/specs/semconv/resource/": {
+    "StatusCode": 206,
+    "LastSeen": "2025-07-31T09:52:10.112972634+02:00"
   },
   "https://opentelemetry.io/ecosystem/registry/": {
     "StatusCode": 206,

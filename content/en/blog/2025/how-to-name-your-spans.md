@@ -26,10 +26,11 @@ Simple, clear sentences often follow a subject -> verb -> direct object
 structure. The "subject" (the service performing the work) is already part of
 the trace's context. We can use the rest of that structure for our span name:
 
-### {verb} {object}
+## {verb} {object}
 
 This pattern is descriptive, easy to understand, and helps maintain low
-cardinality—a crucial concept we'll touch on later.
+[cardinality](/docs/concepts/glossary/#cardinality)—a crucial concept we'll
+touch on later.
 
 - **{verb}**: A verb describing the work being done (e.g., process, send,
   calculate, render).
@@ -46,7 +47,7 @@ Let's look at some examples:
 | calculate shipping  | calculate_shipping_for_zip_90210   | The operation is consistent. The zip code is a parameter, not part of the name.    |
 | validate user_input | validation_failed                  | Focus on the operation, not the outcome. The result belongs in the span's status.  |
 
-By adhering to the {verb} {object} format, you create a clear, consistent
+By adhering to the `{verb} {object}` format, you create a clear, consistent
 vocabulary for your business operations. This makes your traces incredibly
 powerful. A product manager could ask, "How long does it take to process
 payments?" and an engineer can immediately filter for those spans and get an
@@ -54,7 +55,7 @@ answer.
 
 ## Why This Pattern Works
 
-So why is process payment good and process*invoice*#98765 bad? The reason is
+So why is `process payment` good and `process*invoice*#98765` bad? The reason is
 **cardinality**.
 
 Cardinality refers to the number of unique values a piece of data can have. A
@@ -64,13 +65,13 @@ name for every single operation. This floods your observability backend, makes
 it impossible to group and analyze similar operations, and can significantly
 increase costs.
 
-The {verb} {object} pattern naturally produces low-cardinality names. The
-unique, high-cardinality details (invoice\_#98765, user_jane_doe) belong in
-**span attributes**, which we will cover in our next blog post.
+The `{verb} {object}` pattern naturally produces low-cardinality names. The
+unique, high-cardinality details (`invoice\_#98765, user_jane_doe`) belong in
+**span attributes**, which we will cover in a future blog post.
 
 ## Learning from Semantic Conventions
 
-This {verb} {object} approach isn't arbitrary. It's a best practice that
+This `{verb} {object}` approach isn't arbitrary. It's a best practice that
 reflects the principles behind the official **OpenTelemetry Semantic Conventions
 (SemConv)**. SemConv provides a standardized set of names for common operations,
 ensuring that a span for an HTTP request is named consistently, regardless of
@@ -85,40 +86,40 @@ Let's look at a few examples from SemConv.
 
 ### HTTP Spans
 
-For server-side HTTP spans, the convention is {method} {route}.
+For server-side HTTP spans, the convention is `{method} {route}`.
 
-- **Example:** GET /api/users/:ID
-- **Analysis:** This is a verb (GET) on an object (/api/users/:ID). The use of a
-  route template instead of the actual path (/api/users/123) is a perfect
+- **Example:** `GET /api/users/:ID`
+- **Analysis:** This is a verb (`GET`) on an object (`/api/users/:id`). The use
+  of a route template instead of the actual path (`/api/users/123`) is a perfect
   example of maintaining low cardinality.
 
 ### Database Spans
 
-Database spans are often named {db.operation} {db.name}.{db.sql.table}.
+Database spans are often named `{db.operation} {db.name}.{db.sql.table}`.
 
-- **Example:** INSERT my_database.users
-- **Analysis:** This is a verb (INSERT) on an object (my_database.users). The
-  specific values being inserted are high-cardinality and are rightly excluded
-  from the name.
+- **Example:** `INSERT my_database.users`
+- **Analysis:** This is a verb (`INSERT`) on an object (`my_database`.users).
+  The specific values being inserted are high-cardinality and are rightly
+  excluded from the name.
 
 ### RPC Spans
 
-For Remote Procedure Calls, the convention is {rpc.service}/{rpc.method}.
+For Remote Procedure Calls, the convention is `{rpc.service}/{rpc.method}`.
 
-- **Example:** com.example.UserService/GetUser
+- **Example:** `com.example.UserService/GetUser`
 - **Analysis:** While the format is different, the principle is the same. It
-  describes a method (GetUser), which is a verb, within a service
-  (com.example.UserService), which is the object or resource.
+  describes a method (`GetUser`), which is a verb, within a service
+  (`com.example.UserService`), which is the object or resource.
 
-The key takeaway is that by using {verb} {object}, you are speaking the same
+The key takeaway is that by using `{verb} {object}`, you are speaking the same
 language as the rest of your instrumentation.
 
 ## Cultivating a Healthy System
 
 Naming spans is not a trivial task. It's a foundational practice for building a
 robust and effective observability strategy. By adopting a clear, consistent
-pattern like {verb} {object} for your business-specific spans, you can transform
-your telemetry data from a tangled mess into a well-tended garden.
+pattern like `{verb} {object}` for your business-specific spans, you can
+transform your telemetry data from a tangled mess into a well-tended garden.
 
 A well-named span is a gift to your future self and your team. It provides
 clarity during stressful outages, enables powerful performance analysis, and
